@@ -103,7 +103,7 @@
     margin: 0 0 48px;
 }
 
-.flowers-images .img-link p{
+.flowers-images .img-link p {
     color: #272727;
     font-size: 24px;
     font-weight: 700;
@@ -111,5 +111,30 @@
     text-align: center;
     text-decoration-line: underline;
     text-align: center;
-    margin-top: 32px ;
+    margin-top: 32px;
+}
+
+.flower-contact {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    gap: 100px;
+    border-radius: 8px;
+    background: #2727270d;
+    width: 1440px;
+    height: 320px;
+    margin: 128px auto;
+}
+
+.flower-contact img {
+    border: 1px dashed #27272752;
+}
+
+.flower-contact p {
+    color: #272727cc;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 35px;
+    margin: 24px;
 }

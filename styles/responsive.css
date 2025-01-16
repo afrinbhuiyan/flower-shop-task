@@ -60,7 +60,16 @@
     .flowers-images .image img {
         width: 300px;
     }
+
     .flowers-images .image {
         padding: 117px 20px 0 20px;
+    }
+
+    .flower-contact {
+        flex-direction: column;
+        width: 100%;
+        height: 100%;
+        margin: 50px auto;
+        padding-top: 30px;
     }
 }
